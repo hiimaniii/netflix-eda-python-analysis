@@ -79,7 +79,7 @@ Netflix's library grew exponentially from near-zero in 2015 to a peak of 2,000+ 
 ### BQ1 — Is Netflix Shifting Strategy from Movies to TV Shows?
 **Analyst Hypothesis:** Netflix may be pivoting toward TV Shows for higher engagement and subscriber retention.
 
-![Strategic Shift Chart](bq1_strategy_shift.png)
+![Strategic Shift Chart](Screenshot%202026-03-23%20130142.png)
 
 **Finding:** Movies consistently dominate but the gap is narrowing. TV Shows grew from 26 titles added in 2015 to 505 in 2021, while Movies grew from 56 to 993. The Movies-to-TV Shows ratio compressed from 2.2x in 2015 to 2.0x in 2021 — a gradual but measurable strategic pivot toward serialized content.
 
@@ -88,7 +88,7 @@ Netflix's library grew exponentially from near-zero in 2015 to a peak of 2,000+ 
 ### BQ2 — Genre Saturation Analysis: Where Are the Content Gaps?
 **Analyst Hypothesis:** A few genres dominate the library while niche categories remain systematically underserved.
 
-![Genre Saturation Chart](bq2_genre_saturation.png)
+![Genre Saturation Chart](Screenshot%202026-03-23%20130338.png)
 
 **Finding:** International Movies (2,752), Dramas (2,427), and Comedies (1,674) are severely oversaturated. Meanwhile, Docuseries (395) and Kids' TV (451) represent significantly underserved categories — representing white space opportunities for content investment with lower competitive density and potentially higher marginal viewer acquisition value.
 
@@ -97,7 +97,7 @@ Netflix's library grew exponentially from near-zero in 2015 to a peak of 2,000+ 
 ### BQ3 — Content Rating by Market: Are Some Countries Getting More Mature Content?
 **Analyst Hypothesis:** Netflix may be deploying market-specific content rating strategies based on cultural and regulatory factors.
 
-![Rating by Country Chart](bq3_rating_country.png)
+![Rating by Country Chart](Screenshot%202026-03-23%20130824.png)
 
 **Finding:** The United States receives the most mature content by volume — TV-MA titles dominate the US library at 900+ titles. India's library skews toward TV-14 (550+), reflecting regulatory content sensitivity. South Korea and Japan show minimal mature content, consistent with stricter local broadcasting standards. This confirms Netflix operates a deliberate market-specific content rating strategy rather than a uniform global approach.
 
@@ -106,7 +106,7 @@ Netflix's library grew exponentially from near-zero in 2015 to a peak of 2,000+ 
 ### BQ4 — Release Timing Optimization: When Does Netflix Drop Most Content?
 **Analyst Hypothesis:** Netflix concentrates content releases in strategic windows to maximize subscriber acquisition and retention.
 
-![Release Month Chart](bq4_release_month.png)
+![Release Month Chart](Screenshot%202026-03-23%20131004.png)
 
 **Finding:** July is Netflix's peak content release month (827 titles) — aligning with summer viewing season and subscriber growth targets. December ranks second (813), consistent with holiday engagement strategy. February is the lowest volume month (563) — suggesting Netflix deliberately deprioritizes post-holiday periods when subscriber churn risk is lower. This data supports a bimodal release calendar: summer peak and holiday peak.
 
