@@ -1,5 +1,7 @@
 # Netflix Content Strategy Analysis — Python EDA Portfolio Project
 
+https://colab.research.google.com/drive/15zLsHVC4wt9QdI4DE6e_aqt01AVM_pHe?usp=sharing
+
 ## Executive Summary
 
 This project delivers a comprehensive Exploratory Data Analysis (EDA) of Netflix's global content library using Python. Moving beyond surface-level visualization, this analysis replicates the content strategy intelligence framework used by media analytics teams at leading streaming platforms — interrogating genre saturation, market-specific rating distributions, strategic content shifts, and release timing optimization across 8,807 titles spanning 2008–2021.
